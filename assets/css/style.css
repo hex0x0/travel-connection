@@ -1,0 +1,23 @@
+.box-about{
+    background-color:blueviolet;
+    width: auto;
+    color:aqua !important;
+
+}
+
+.card {
+    width: 400px;
+    padding: 80px 50px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2)
+}
+
+.card h3{
+    color:#000 !important;
+    margin-bottom:50px;
+    border-left:5px red !important;
+    padding-left: 10px;
+    line-height: 1em
+}
+
