@@ -22,4 +22,27 @@
 }
 
 
+.bgcolor-article{
+    background-color: rgba(252,185,0,1);
+    padding-top:50px;
+    padding-bottom:50px;
+}
 
+.vertical-align{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-color{
+    color:#000;
+}
+
+.f-text{
+    font-size:20px;
+    transition: color 1s;
+}
+
+.f-text:hover{
+    color:#fff;
+}
