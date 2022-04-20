@@ -1,0 +1,29 @@
+.bgcolor-article{
+    background-color: orangered;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.vertical-align{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-color{
+    color:#fff;
+    background-color: rgb(12, 4, 20);
+}
+
+.text-color h3{
+    font-size:60px;
+}
+
+.f-text{
+    font-size:15px;
+    
+}
+
+.f-text:hover{
+    color:#fff;
+}
